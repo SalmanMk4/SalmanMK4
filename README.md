@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baloch 😎</h1>
 
-- 🔭 I’m currently working on **Humanoid CRM**
+- 🔭 I’m currently working on **Magnus Recruitment Web App**
 
 - 🌱 I’m currently learning **NestJs**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sb2137842@gmail.com**
 
-- ⚡ Fun fact **I am funny boy 😉**
+- ⚡ Fun fact **Funny guy, I guess 😅**
 
 ## About Me
 Hey, I'm Salman Baloch, a dedicated MEAN stack developer with experience in utilizing Angular, Node.js, Express.js, Nestjs, and MongoDB to create scalable online apps. I like to create solid backend systems and flawless user experiences. When I'm not coding, you'll find me exploring the world of cars or connecting with nature. Let's work together to create something amazing!
