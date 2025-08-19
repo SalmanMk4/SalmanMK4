@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baloch 😎</h1>
+<h1 align="center">👋, I'm Baloch 😎</h1>
 
 - 🔭 I’m currently working on **Magnus Recruitment Web App**
 
@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **sb2137842@gmail.com**
+- 📫 How to reach me **stackflare.dev@gmail.com**
 
 - ⚡ Fun fact **Funny guy, I guess 😅**
 
