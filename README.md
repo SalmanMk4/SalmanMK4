@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Baloch 😎</h1>
 
-- 🔭 I’m currently working on **Magnus Recruitment Web App**
+- 🔭 I’m currently working on **Humanoid2.0**
 
 - 🌱 I’m currently learning **NestJs**
 
